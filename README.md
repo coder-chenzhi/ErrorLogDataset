@@ -1,0 +1,3 @@
+Backup of [Errlog: Failure diagnosis report release](http://opera.ucsd.edu/errlog.htm)
+
+Be Conservative: Enhancing Failure Diagnosis with Proactive Logging. Ding Yuan, Soyeon Park, Peng Huang, Yang Liu, Michael M. Lee, Xiaoming Tang, Yuanyuan Zhou and Stefan Savage. In the Proceedings of the 10th USENIX Symposium on Operating Systems Design and Implementation (OSDI'12), Hollywood, CA, October 2012. 
